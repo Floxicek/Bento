@@ -146,6 +146,14 @@ const CONFIG = {
           name: "Vibe",
           link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
         },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/5DsDRtXyXpyL3czRTbsq1k?si=6caef805a315464b",
+        },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
+        },
       ],
     },
     {
@@ -159,6 +167,14 @@ const CONFIG = {
         {
           name: "Reddit",
           link: "https://www.reddit.com",
+        },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/5DsDRtXyXpyL3czRTbsq1k?si=6caef805a315464b",
+        },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
         },
       ],
     },
