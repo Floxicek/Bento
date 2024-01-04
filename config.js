@@ -78,7 +78,7 @@ const CONFIG = {
     {
       id: "5",
       name: "Reddit",
-      icon: "glasses",
+      icon: "users-round",
       link: "https://reddit.com",
     },
     {
@@ -147,12 +147,12 @@ const CONFIG = {
           link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
         },
         {
-          name: "-",
-          link: "https://open.spotify.com/playlist/5DsDRtXyXpyL3czRTbsq1k?si=6caef805a315464b",
+          name: "Oldies",
+          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         },
         {
-          name: "-",
-          link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
+          name: "Rock",
+          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
         },
       ],
     },
@@ -161,20 +161,20 @@ const CONFIG = {
       id: "2",
       links: [
         {
-          name: "Pinterest",
-          link: "https://www.pinterest.com",
+          name: "Linkedin",
+          link: "https://www.linkedin.com",
         },
         {
-          name: "Reddit",
-          link: "https://www.reddit.com",
+          name: "Dribbble",
+          link: "https://www.dribbble.com",
         },
         {
-          name: "-",
-          link: "https://open.spotify.com/playlist/5DsDRtXyXpyL3czRTbsq1k?si=6caef805a315464b",
+          name: "Trello",
+          link: "https://www.trello.com",
         },
         {
-          name: "-",
-          link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
+          name: "Slack",
+          link: "https://www.slack.com",
         },
       ],
     },
