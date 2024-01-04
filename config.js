@@ -26,14 +26,14 @@ const CONFIG = {
   bentoLayout: "bento", // 'bento', 'lists', 'buttons'
 
   // Weather
-  weatherKey: "InsertYourAPIKeyHere123456", // Write here your API Key
+  weatherKey: "38a41f7456f20b7d732d2fe082e6309d", // Write here your API Key
   weatherIcons: "OneDark", // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: "C", // 'F', 'C'
   language: "en", // More languages in https://openweathermap.org/current#multi
 
   trackLocation: false, // If false or an error occurs, the app will use the lat/lon below
-  defaultLatitude: "50.073658",
-  defaultLongitude: "14.418540",
+  defaultLatitude: "50.075539",
+  defaultLongitude: "14.437800",
 
   // Autochange
   autoChangeTheme: true,
@@ -146,14 +146,6 @@ const CONFIG = {
           name: "Vibe",
           link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
         },
-        {
-          name: "Oldies",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        },
-        {
-          name: "Rock",
-          link: "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
-        },
       ],
     },
     {
@@ -193,14 +185,6 @@ const CONFIG = {
         {
           name: "Reddit",
           link: "https://www.reddit.com",
-        },
-        {
-          name: "Hashnode",
-          link: "https://www.hashnode.com",
-        },
-        {
-          name: "Pocket",
-          link: "https://www.pocket.com",
         },
       ],
     },
