@@ -13,7 +13,7 @@ const CONFIG = {
   // General
   name: "Floxicek",
   imageBackground: false,
-  openInNewTab: true,
+  openInNewTab: false,
   twelveHourFormat: false,
 
   // Greetings
@@ -65,9 +65,9 @@ const CONFIG = {
     },
     {
       id: "3",
-      name: "Todoist",
-      icon: "trello",
-      link: "https://todoist.com",
+      name: "Keep",
+      icon: "sticky-note",
+      link: "https://keep.google.com",
     },
     {
       id: "4",
@@ -146,6 +146,14 @@ const CONFIG = {
           name: "Vibe",
           link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
         },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/5DsDRtXyXpyL3czRTbsq1k?si=6caef805a315464b",
+        },
+        {
+          name: "-",
+          link: "https://open.spotify.com/playlist/6BtWiubOnNULhEybIgCs48?si=88f48e6939b5446e",
+        },
       ],
     },
     {
@@ -184,6 +192,14 @@ const CONFIG = {
         },
         {
           name: "Reddit",
+          link: "https://www.reddit.com",
+        },
+        {
+          name: "-",
+          link: "https://www.spotify.com",
+        },
+        {
+          name: "-",
           link: "https://www.reddit.com",
         },
       ],
