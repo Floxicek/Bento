@@ -27,7 +27,7 @@ const CONFIG = {
 
   // Weather
   weatherKey: "38a41f7456f20b7d732d2fe082e6309d", // Write here your API Key
-  weatherIcons: "OneDark", // 'Onedark', 'Nord', 'Dark', 'White'
+  weatherIcons: "Dark", // 'Onedark', 'Nord', 'Dark', 'White'
   weatherUnit: "C", // 'F', 'C'
   language: "en", // More languages in https://openweathermap.org/current#multi
 
@@ -61,13 +61,13 @@ const CONFIG = {
       id: "2",
       name: "Mail",
       icon: "mail",
-      link: "https://gmail.com/",
+      link: "https://outlook.live.com/",
     },
     {
       id: "3",
       name: "Keep",
       icon: "sticky-note",
-      link: "https://keep.google.com",
+      link: "obsidian://open?vault=Vejška",
     },
     {
       id: "4",
